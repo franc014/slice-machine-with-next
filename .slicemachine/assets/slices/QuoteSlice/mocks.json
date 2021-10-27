@@ -1,0 +1,39 @@
+[
+  {
+    "variation": "default-slice",
+    "name": "Default slice",
+    "slice_type": "quote_slice",
+    "items": [],
+    "primary": {
+      "quoteText": [
+        {
+          "type": "paragraph",
+          "text": "Commodo incididunt do cillum amet quis. Laborum quis ea commodo quis.",
+          "spans": []
+        }
+      ]
+    }
+  },
+  {
+    "variation": "quoteReference",
+    "name": "Quote Reference",
+    "slice_type": "quote_slice",
+    "items": [],
+    "primary": {
+      "quoteText": [
+        {
+          "type": "paragraph",
+          "text": "In aliquip ea duis. Dolor Lorem consectetur nulla proident dolor in elit nisi adipisicing in eu aliqua elit ex.",
+          "spans": []
+        }
+      ],
+      "quoteReference": [
+        {
+          "type": "paragraph",
+          "text": "Velit aliquip ullamco enim velit labore non aliqua irure quis occaecat nulla.",
+          "spans": []
+        }
+      ]
+    }
+  }
+]
